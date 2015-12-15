@@ -134,6 +134,7 @@ configure(allprojects) { project ->
 	}
 
 	repositories {
+		mavenLocal()
 		maven { url "https://repo.spring.io/libs-release" }
 		maven { url "https://repo.spring.io/milestone" }
 		maven { url "https://repo.spring.io/snapshot" }   // reactor 2.0.6 snapshot
