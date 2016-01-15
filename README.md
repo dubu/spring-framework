@@ -70,7 +70,7 @@ on Twitter. In-depth articles can be found at [The Spring Blog][], and releases
 are announced via our [news feed][].
 
 ## License
-The Spring Framework is released under version 2.0 of the [Apache License][].
+The Spring Framework is released under version 2.0 of the [Apache License][] .
 
 [Spring Integration]: https://github.com/spring-projects/spring-integration
 [Spring Batch]: https://github.com/spring-projects/spring-batch
@@ -100,3 +100,4 @@ The Spring Framework is released under version 2.0 of the [Apache License][].
 [The Spring Blog]: http://spring.io/blog/
 [news feed]: http://spring.io/blog/category/news
 [Apache License]: http://www.apache.org/licenses/LICENSE-2.0
+
